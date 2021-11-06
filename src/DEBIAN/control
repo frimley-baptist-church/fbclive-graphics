@@ -1,4 +1,4 @@
-Package: fbclive-graphics
+Package: fbclive-graphics-feed
 Version: 1.0.0.__datestamp__
 Architecture: all
 Maintainer: Dave Bevan <dave.bevan@fbc.org.uk>
