@@ -2,7 +2,7 @@
 
 An Ubuntu configuration package to run the FBCLive Graphics system.
 
-The graphics system provides lower 3rd graphics for broadcasts on the [FBC Live YouTube channel](https://www.youtube.com/channel/UCPb62fbC7uBtisUjU__I47g).
+The graphics system provides lower 3rd graphics for broadcasts on the [FBCLive YouTube channel](https://www.youtube.com/channel/UCPb62fbC7uBtisUjU__I47g).
 
 This package configures, in our case, a PC (Intel NUC in our case) running Ubuntu Server 20.04 and the Chromium web browser. When powered up, the NUC automatically logs in as the `fbclive` user, runs Chromium in kiosk mode with its home page set to a page on our internal graphics server. The web page itself presents a green background, with lower 3rd items placed on the page.
 
