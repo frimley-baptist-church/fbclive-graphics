@@ -13,7 +13,7 @@ Here's an example from the HDMI out.
 ![Screenshot from 2021-11-06 14-14-14](https://user-images.githubusercontent.com/5892030/140614163-fe650afb-79fd-4361-a958-88be0560fca6.png)
 
 
-And here is the finished composition once the Atem upstream keyer has done its work.
+The finished composition once the Atem upstream keyer has done its work.
 
 ![fbclive-graphics-example](https://user-images.githubusercontent.com/5892030/140613844-d92f1f4b-fe8c-42d3-bc6b-70d29e2cba64.png)
 
